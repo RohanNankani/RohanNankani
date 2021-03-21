@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rohan and I'm currently a Grade 11 student at Bloor CI. I'm an outdoor enthusiast and play soccer :soccer:, badminton :tennis:, volleyball and enjoy biking. I also like debating and public speaking :speech_balloon:. 
+
+I can be reached at nankani1606@gmail.com.
+
 <!--
 **RohanNankani/RohanNankani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
