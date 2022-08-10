@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rohan and I am currently a first year student at University of Waterloo pursuing Bachelor's of Software Engineering :computer:. I'm an outdoor enthusiast and play soccer :soccer:, badminton :tennis:, volleyball and enjoy biking. I also like debating and public speaking :speech_balloon:. 
+I'm Rohan and I am currently a first year student at University of Waterloo pursuing Bachelor's of Software Engineering :computer:. I'm an outdoor enthusiast and play soccer :soccer:, badminton :badminton:, volleyball :volleyball: and enjoy biking :biking:. I also like debating and public speaking :speech_balloon:. 
 
 I can be reached at rohan.nankani2021@gmail.com.
 
